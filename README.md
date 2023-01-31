@@ -1,1 +1,1 @@
-# Lab01_Pr-tica_PowerBI
+# Lab01_Pratica_PowerBI
